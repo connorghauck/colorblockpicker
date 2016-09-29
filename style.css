@@ -1,0 +1,27 @@
+#boxred{
+	width: 100px;
+	height: 100px;
+    background-color: #f00;
+    float:left;
+}
+
+#boxblue{
+	width: 100px;
+	height: 100px;
+    background-color: #00f;
+    float:left;
+}
+
+#boxgreen{
+	width: 100px;
+	height: 100px;
+    background-color: #0f0;
+    float:left;
+}
+
+#boxyellow{
+	width: 100px;
+	height: 100px;
+    background-color: #fff000;
+    float: left;
+}
